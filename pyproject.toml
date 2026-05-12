@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "cloakbrowser-mcp"
+name = "mcp-cloakbrowser"
 version = "0.1.0"
 description = "MCP server for CloakBrowser - stealth browser automation via Model Context Protocol"
 readme = "README.md"
