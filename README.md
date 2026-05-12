@@ -1,5 +1,7 @@
 # CloakBrowser MCP Server
 
+[English](README.md) | [中文](README_CN.md)
+
 > Stealth browser automation via [Model Context Protocol](https://modelcontextprotocol.io/), powered by [CloakBrowser](https://github.com/CloakHQ/CloakBrowser).
 
 A drop-in MCP server that wraps CloakBrowser's stealth Chromium with **57 source-level C++ fingerprint patches** — not JS injection. Passes all 30/30 bot detection tests (reCAPTCHA v3 score: 0.9, Cloudflare Turnstile: PASS, FingerprintJS: PASS).
